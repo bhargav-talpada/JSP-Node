@@ -1,0 +1,9 @@
+name="b", email="b@gmail.com", password="b1458"
+name="p", email="p@gmail.com", password="p125"
+name="bhargav kikani", email="bhargav@gmail.com", password="lkikan123"
+name="parth", email="parthsabahay@gmail.com", password="parth123"
+name="Bhargav Talpada ", email="bhargav@gmail.com", password="bhargav@talpada"
+name="JBTJFFCJDA13", email="JBTJFFCJDA13@gmail.com", password="JBTJFFCJDA13"
+name="srinevaas", email="sri@gmail.com", password="sri@123"
+name=node, email=node@gmail.com, password=node123
+name="parth", email="parth@gmail.com", password="parth800"
